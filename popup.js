@@ -1,4 +1,4 @@
-dechocument.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function () {
 	var btn = document.getElementById("btnCopy");
     btn.addEventListener('click', copyUrls);
 });
