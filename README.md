@@ -1,6 +1,8 @@
 # CopyTabs
 
-Browser extension that copies open tabs into clipboard
+Browser extension that copies open tabs into clipboard.  
+  
+[Available on the chrome webstore!](https://chrome.google.com/webstore/detail/copytabs/cfmgdnjfeffghlfaffnfgohhpdnibong?hl=en-GB)  
 
 ## Contributing
 
